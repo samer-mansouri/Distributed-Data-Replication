@@ -6,7 +6,7 @@ fi
 
 run_replica() {
     echo "Starting Replica $1..."
-    /usr/bin/env /usr/lib/jvm/java-11-openjdk-amd64/bin/java @/tmp/cp_r52u0m6nzo8ny0toxreut4ga.argfile Replica $1 &
+    /usr/bin/env /usr/lib/jvm/java-11-openjdk-amd64/bin/java @/tmp/cp_6fku06fp8ggvppleqlmnlk28k.argfile Replica $1 &
 }
 
 case "$1" in

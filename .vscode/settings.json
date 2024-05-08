@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/samer/Téléchargements/amqp-client-5.20.0.jar",
+        "/home/samer/Téléchargements/jar_files/slf4j-api-2.0.12.jar",
+        "/home/samer/Téléchargements/jar_files/slf4j-simple-2.0.12.jar"
+    ]
+}
